@@ -1,0 +1,9 @@
+<footer>
+  <p>This is content coming from a partial, a type of layout that can be included in other layouts.</p>
+  <span>Follow the Griffin project</span>
+  <ul>
+    <li><a href="https://github.com/elixir-griffin/griffin">Star it on Github</a></li>
+    <li><a href="https://github.com/elixir-griffin/griffin/issues/new">Report a Bug</a></li>
+    <li><a href="https://github.com/elixir-griffin/griffin/issues/new">Suggest a Feature</a></li>
+  </ul>
+</footer>
